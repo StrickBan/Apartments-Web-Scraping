@@ -1,2 +1,2 @@
 # Houses-Web-Scraping
-Code to web scrape data from www.adondevivir.com for further data analysis
+I will be doing web scraping of apartment data from the website www.adondevivir.com using BeautifulSoup
